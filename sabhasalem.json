@@ -1,15 +1,12 @@
 [
     {
-        "name": "Royal Pharmacy Sabha Al Salem B3",
-        "coords": "29.253244, 48.08216"
-    },
-    {
-        "name": "Sandwich Sabha Al Salem B2",
-        "coords": "29.248945, 48.089796"
-    },
-    {
         "name": "Karak Sabha Al Salem B2",
         "coords": "29.249006, 48.089773"
+    },
+    
+    {
+        "name": "Royal Pharmacy Sabha Al Salem B1",
+        "coords": "29.253244, 48.08216"
     },
     {
         "name": "Fatayer Sabha Al Salem B2",
@@ -20,7 +17,7 @@
         "coords": "29.263040, 48.077729"
     },
     {
-        "name": "Shrimp Sabha Al Salem B1",
+        "name": "Shrimpy Sabha Al Salem B1",
         "coords": "29.260543, 48.082316"
     },
     {
@@ -120,7 +117,7 @@
         "coords": "29.260566, 48.081832"
     },
     {
-        "name": "swaikhat Sabha Al Salem B1",
+        "name": "Swaikhat Sabha Al Salem B1",
         "coords": "29.260654, 48.081850"
     },
     {
@@ -128,11 +125,11 @@
         "coords": "29.175278, 48.117250"
     },
     {
-        "name": "pick Abu Hasaniy B9",
+        "name": "Pick Abu Hasaniy B9",
         "coords": "29.209076, 48.105147"
     },
     {
-        "name": "dahlia juice Abu Hasaniy B9",
+        "name": "Dahlia juice Abu Hasaniy B9",
         "coords": "29.209352, 48.105486"
     },
     {
@@ -144,7 +141,7 @@
         "coords": "29.264048, 48.084213"
     },
     {
-        "name": "saber Al Ali B4",
+        "name": "Saber Al Ali B4",
         "coords": "29.171639, 48.078250"
     },
     {
@@ -152,7 +149,7 @@
         "coords": "29.175205, 48.075146"
     },
     {
-        "name": "mama Baker Al Fintas B1",
+        "name": "Mama Baker Al Fintas B1",
         "coords": "29.182252, 48.116121"
     },
     {
@@ -176,7 +173,7 @@
         "coords": "29.266013, 48.081501"
     },
     {
-        "name": "Bybartone Coffee Sabha Al Salem B1",
+        "name": "Bartone Coffee Sabha Al Salem B1",
         "coords": "29.267147, 48.081449"
     },
     {
@@ -208,7 +205,7 @@
         "coords": "29.209076, 48.105141"
     },
     {
-        "name": "dahlia juice Fnaitess B9",
+        "name": "Dahlia juice Fnaitess B9",
         "coords": "29.209352, 48.105486"
     },
     {
@@ -224,7 +221,7 @@
         "coords": "29.214819, 48.103580"
     },
     {
-        "name": "(DH) kitchen Fnaitess B9",
+        "name": "DH kitchen Fnaitess B9",
         "coords": "29.213827, 48.103511"
     },
     {
@@ -232,7 +229,7 @@
         "coords": "29.213827, 48.103511"
     },
     {
-        "name": "zaze coffee Fnaitess B9",
+        "name": "Zaze coffee Fnaitess B9",
         "coords": "29.219402, 48.101902"
     },
     {
@@ -260,7 +257,7 @@
         "coords": "29.168302, 48.064019"
     },
     {
-        "name": "pharmacy Daher",
+        "name": "Pharmacy Daher",
         "coords": "29.168150, 48.064082"
     },
     {
@@ -276,7 +273,7 @@
         "coords": "29.209076, 48.105141"
     },
     {
-        "name": "dahlia juice Fnaitess B9",
+        "name": "Dahlia juice Fnaitess B9",
         "coords": "29.209352, 48.105486"
     },
     {
@@ -304,10 +301,6 @@
         "coords": "29.214990, 48.074240"
     },
     {
-        "name": "sabha Al salem B13",
-        "coords": "29.246058, 48.051227"
-    },
-    {
         "name": "MEAT sabha Al salem B10",
         "coords": "29.256306, 48.052361"
     },
@@ -332,7 +325,7 @@
         "coords": "29.199361, 48.051833"
     },
     {
-        "name": "caesars B5",
+        "name": "Caesars B5",
         "coords": "29.215500, 48.074100"
     },
     {
@@ -352,16 +345,12 @@
         "coords": "29.266100, 48.078418"
     },
     {
-        "name": "voco aviation Al Q",
+        "name": "Voco aviation Al Q",
         "coords": "29.199929, 48.051000"
     },
     {
         "name": "Domins pizzas Al Qusour B5",
         "coords": "29.214990, 48.074240"
-    },
-    {
-        "name": "sabha Al salem B13",
-        "coords": "29.246058, 48.051227"
     },
     {
         "name": "MEAT sabha Al salem B10",
@@ -392,7 +381,7 @@
         "coords": "29.137328, 48.115799"
     },
     {
-        "name": "% Coffee Abu Hasaniya",
+        "name": "Coffee Abu Hasaniya",
         "coords": "29.195569, 48.109640"
     },
     {
@@ -404,7 +393,7 @@
         "coords": "29.196611, 48.109861"
     },
     {
-        "name": "dahlia juice Abu Hasaniya B10",
+        "name": "Dahlia juice Abu Hasaniya B10",
         "coords": "29.196393, 48.109608"
     },
     {
@@ -412,7 +401,7 @@
         "coords": "29.208966, 48.088701"
     },
     {
-        "name": "pinkberr mubarak Al kabir B4",
+        "name": "Pinkberr mubarak Al kabir B4",
         "coords": "29.188450, 48.078590"
     },
     {
@@ -496,15 +485,15 @@
         "coords": "29.260543, 48.082316"
     },
     {
-        "name": "piatto sand sabha Al salem B1",
+        "name": "Piatto sand sabha Al salem B1",
         "coords": "29.263674, 48.078049"
     },
     {
-        "name": "karak Al shayeb Sabha Al salem B1",
+        "name": "Karak Al shayeb Sabha Al salem B1",
         "coords": "29.249006, 48.089773"
     },
     {
-        "name": "1 sandwich Sabha Al salem B1",
+        "name": "1 Sandwich Sabha Al salem B1",
         "coords": "29.248945, 48.089796"
     },
     {
@@ -540,7 +529,7 @@
         "coords": "29.265885, 48.079267"
     },
     {
-        "name": "mama Baker Fintes B1",
+        "name": "Mama Baker Fintes B1",
         "coords": "29.182252, 48.116121"
     },
     {
@@ -632,11 +621,11 @@
         "coords": "29.195624, 48.048425"
     },
     {
-        "name": "wK Burger sabha Al salem B2",
+        "name": "WK Burger sabha Al salem B2",
         "coords": "29.246866, 48.084053"
     },
     {
-        "name": "bips Salmiya Fnaitess B9",
+        "name": "Bips Salmiya Fnaitess B9",
         "coords": "29.213333, 48.103897"
     }
 ]
