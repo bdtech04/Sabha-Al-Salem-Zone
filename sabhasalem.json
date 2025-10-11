@@ -3,7 +3,6 @@
         "name": "Karak Sabha Al Salem B2",
         "coords": "29.249006, 48.089773"
     },
-    
     {
         "name": "Royal Pharmacy Sabha Al Salem B1",
         "coords": "29.253244, 48.08216"
@@ -77,7 +76,7 @@
         "coords": "29.195325, 48.110182"
     },
     {
-        "name": "Arabica % Abu Hasaniy B10",
+        "name": "Arabica Abu Hasaniy B10",
         "coords": "29.195569, 48.109640"
     },
     {
@@ -133,10 +132,6 @@
         "coords": "29.209352, 48.105486"
     },
     {
-        "name": "Fatayer Sabha Al Salem B2",
-        "coords": "29.248056, 48.086639"
-    },
-    {
         "name": "Health Srubio B1",
         "coords": "29.264048, 48.084213"
     },
@@ -155,18 +150,6 @@
     {
         "name": "Bartone Coffee Al Masayel B2",
         "coords": "29.243020, 48.088095"
-    },
-    {
-        "name": "Baskin Sabha Al Salem B1",
-        "coords": "29.265885, 48.079267"
-    },
-    {
-        "name": "Rock house Sabha Al Salem B1",
-        "coords": "29.261549, 48.082508"
-    },
-    {
-        "name": "Lov Dite Sabha Al Salem B1",
-        "coords": "29.261549, 48.081417"
     },
     {
         "name": "CAF Coffee Sabha Al Salem B1",
@@ -225,20 +208,8 @@
         "coords": "29.213827, 48.103511"
     },
     {
-        "name": "Starbucks Fnaitess B9",
-        "coords": "29.213827, 48.103511"
-    },
-    {
         "name": "Zaze coffee Fnaitess B9",
         "coords": "29.219402, 48.101902"
-    },
-    {
-        "name": "Trolley sabha Al salem B12",
-        "coords": "29.242473, 48.063273"
-    },
-    {
-        "name": "EOL coffee sabha Al salem B12",
-        "coords": "29.242384, 48.063155"
     },
     {
         "name": "Talabat met 1",
@@ -257,28 +228,8 @@
         "coords": "29.168302, 48.064019"
     },
     {
-        "name": "Pharmacy Daher",
-        "coords": "29.168150, 48.064082"
-    },
-    {
         "name": "Torino Sweet Daher",
         "coords": "29.167413, 48.063972"
-    },
-    {
-        "name": "Zaatar w Zeit Fnaitess B9",
-        "coords": "29.209280, 48.105480"
-    },
-    {
-        "name": "Pick Fnaitess B9",
-        "coords": "29.209076, 48.105141"
-    },
-    {
-        "name": "Dahlia juice Fnaitess B9",
-        "coords": "29.209352, 48.105486"
-    },
-    {
-        "name": "The Little Beet Fnaitess B9",
-        "coords": "29.209361, 48.105361"
     },
     {
         "name": "The coffee Bean Fnaitess new B9",
@@ -317,10 +268,6 @@
         "coords": "29.295061, 48.048050"
     },
     {
-        "name": "Torino sweet Daher",
-        "coords": "29.167413, 48.063972"
-    },
-    {
         "name": "Froyo al Q",
         "coords": "29.199361, 48.051833"
     },
@@ -331,38 +278,6 @@
     {
         "name": "Caribau coffee Al Q",
         "coords": "29.198219, 48.053371"
-    },
-    {
-        "name": "The coffee Bean Fnaitess new B9",
-        "coords": "29.213170, 48.103787"
-    },
-    {
-        "name": "Ellena Fnaitess B9",
-        "coords": "29.209090, 48.105425"
-    },
-    {
-        "name": "Raising cane s sabha Al salem B1",
-        "coords": "29.266100, 48.078418"
-    },
-    {
-        "name": "Voco aviation Al Q",
-        "coords": "29.199929, 48.051000"
-    },
-    {
-        "name": "Domins pizzas Al Qusour B5",
-        "coords": "29.214990, 48.074240"
-    },
-    {
-        "name": "MEAT sabha Al salem B10",
-        "coords": "29.256306, 48.052361"
-    },
-    {
-        "name": "UK AI Q",
-        "coords": "29.199053, 48.050158"
-    },
-    {
-        "name": "EAST AI Q",
-        "coords": "29.198916, 48.049556"
     },
     {
         "name": "Doha Al Q",
@@ -383,10 +298,6 @@
     {
         "name": "Tabla 5 Abu Hasaniya B10",
         "coords": "29.194883, 48.110339"
-    },
-    {
-        "name": "Caribau coffee Abu Hasaniya B10",
-        "coords": "29.196611, 48.109861"
     },
     {
         "name": "Dahlia juice Abu Hasaniya B10",
@@ -449,10 +360,6 @@
         "coords": "29.200701, 48.046471"
     },
     {
-        "name": "Doha Al Q",
-        "coords": "29.199936, 48.052490"
-    },
-    {
         "name": "Ringer sishi Sabha Al salem B1",
         "coords": "29.261139, 48.083278"
     },
@@ -467,10 +374,6 @@
     {
         "name": "STARBUCKS Mahboul B3",
         "coords": "29.137728, 48.124148"
-    },
-    {
-        "name": "McDonald's Al Q",
-        "coords": "29.201039, 48.045268"
     },
     {
         "name": "Fatayer sabah Al salem B1",
